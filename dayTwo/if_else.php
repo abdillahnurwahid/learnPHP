@@ -1,5 +1,5 @@
 <?php
-$nilai = 60;
+$nilai = 90;
 
 if ($nilai >= 85) {
     echo "nilai kamu A, sangat baik!";
