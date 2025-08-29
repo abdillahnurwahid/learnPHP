@@ -1,0 +1,2 @@
+Halo, ini baris pertama!
+Belajar PHP file Handling!
